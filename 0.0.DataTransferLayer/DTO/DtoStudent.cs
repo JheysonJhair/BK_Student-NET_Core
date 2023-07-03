@@ -53,6 +53,5 @@ namespace _0._0.DataTransfer.DTO
         [Required(ErrorMessage = "El campo\"code\" es requerido.")]
         [RegularExpression("^[0-9]{6}$", ErrorMessage = " \"El campo \"code\" no cumple el formato correcto\"")]
         public string code { get; set; }        
-        public List<DtoSale> childSale { get; set; }//Hijo de la entidad  
     }
 }
