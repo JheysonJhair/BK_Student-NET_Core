@@ -27,7 +27,7 @@ git clone https://github.com/JheysonJhair/BKcrud_student.git
 ```
 
 ```bash
-cd FTcrud_student
+cd BKcrud_student
 ```
 
 2. Ejecuta la aplicación.
