@@ -11,7 +11,7 @@
 Este proyecto utiliza las siguientes tecnologías:
 
 - .NET Core
-- Entiti Framework
+- Entity Framework
 - SqlServer
 - FRONTEND :
 ```bash
